@@ -115,12 +115,3 @@ Assignment-02s
 - https://docs.snowflake.com/en/developer-guide/python-connector/sqlalchemy
 - https://docs.snowflake.com/en/user-guide/data-unload-s3
 
-## Team
-
-| Name         | Contribution% | Contributions           |
-| ------------ | ------------- | ----------------------- |
-| Dongyu Liu   | 20%           | Web Scrapping           |
-| Ekta Bhatia  | 25%           | PDF Extraction          |
-| Parth Kalani | 30%           | Snowflke Data uploading |
-| Sumit Sharma | 25%           | S3 Cloud Storage        |
-
