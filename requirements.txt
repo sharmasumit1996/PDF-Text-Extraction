@@ -1,0 +1,8 @@
+sqlalchemy
+pymysql
+bcrypt
+python-dotenv
+snowflake-sqlalchemy
+selenium
+bs4
+boto3
